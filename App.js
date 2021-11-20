@@ -20,7 +20,7 @@ function Home() {
   <Form.Group className="mb-3" controlId="formBasicCheckbox">
     <Form.Check type="checkbox" label="Check me out" />
   </Form.Group>
-  <Button variant="primary" type="submit" id='submitButton' href="www.tcell.tj">
+  <Button variant="primary" type="submit" id='submitButton'>
     Submit
   </Button>
 </Form>
